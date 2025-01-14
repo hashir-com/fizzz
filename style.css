@@ -94,7 +94,7 @@
 
   @media (max-width: 429px) { /* md breakpoint */
     .textdiv {
-        height: 100vh;
+        height: 200vh;
        padding: 30px;
     }
   }

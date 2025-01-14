@@ -91,6 +91,13 @@
        padding: 30px;
     }
   }
+
+  @media (max-width: 429px) { /* md breakpoint */
+    .textdiv {
+        height: 100vh;
+       padding: 30px;
+    }
+  }
 .f1{
     height: 234px;
     padding: 50px;
